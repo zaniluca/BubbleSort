@@ -3,6 +3,7 @@ Python BubbleSort Visualizer by Luca Zani
 """
 
 import random
+
 import pygame
 
 pygame.init()
@@ -68,3 +69,4 @@ class Visualizer:
 
 v = Visualizer()
 v.bubbleSort()
+# Ho aggiunto un commento di prova
