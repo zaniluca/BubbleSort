@@ -69,5 +69,3 @@ class Visualizer:
 
 v = Visualizer()
 v.bubbleSort()
-# Ho aggiunto un commento di prova
-# ho aggiunto una riga da windows
